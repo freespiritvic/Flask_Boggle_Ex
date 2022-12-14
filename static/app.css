@@ -1,0 +1,28 @@
+* {
+    color: rgb(20, 2, 99);
+}
+
+td {
+    font-size: 3em;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10%;
+    width: 1.2em;
+    height: 1.2em;
+}
+
+#timer {
+    color: red;
+    background-color: black;
+    font-size: 1.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+#score {
+    color: green;
+    font-size: 1.5rem;
+    padding-left: .2;
+    padding-right: .5rem;
+}
+
